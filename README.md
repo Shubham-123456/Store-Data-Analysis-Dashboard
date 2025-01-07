@@ -1,7 +1,7 @@
 # Data-Analysis-Dashboard
 
 ## Description
-A comprehensive project in Excel that shows Sales distribution with respect to gender, states, category, etc. This process includes several steps like Data Cleaning, Data Processing, Data Analysing and data Visualization.
+A comprehensive project in Excel that shows Sales distribution in store with respect to gender, states, category, etc. This process includes several steps like Data Cleaning, Data Processing, Data Analysing and data Visualization.
 
 ## Objective
 Vrinda Store (VS) wants to create an annual sales report for 2022. So that they can understand their customers and grow more sales in 2023.
